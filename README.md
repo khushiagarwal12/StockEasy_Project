@@ -1,4 +1,6 @@
 # StockEasy_Project
+![image](https://github.com/user-attachments/assets/410b765f-874d-4c0d-bebd-37831306f940)
+
 README file for StockEasy Website
 StockEasy Website
 
